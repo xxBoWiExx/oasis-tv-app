@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Oasis TV</string>
+    <!-- Dirección de la pantalla. Si algún día cambias de Netlify, solo cambia esta línea. -->
+    <string name="url_pantalla">https://oasis-tv.netlify.app/tv.html</string>
+</resources>
